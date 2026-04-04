@@ -1,3 +1,4 @@
+
 # 🤖 GPT-2 Text Generation Project
 
 ## 📌 Description
@@ -23,3 +24,7 @@ The model is fine-tuned on a custom dataset and generates meaningful text based 
 ---
 
 ## 📂 Project Structure
+
+# gpt2-text-generation
+GPT-2 based text generation project using Hugging Face Transformers and PyTorch
+...... 9724011776b9d031bf5b35bda7cfaf8716cc666e
