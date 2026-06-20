@@ -16,7 +16,7 @@ The model is fine-tuned on a custom dataset and generates meaningful text based 
 ---
 
 ## 🛠️ Technologies Used
-- Python
+- Python 
 - Hugging Face Transformers
 - PyTorch
 - Datasets Library
