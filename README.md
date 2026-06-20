@@ -9,7 +9,7 @@ The model is fine-tuned on a custom dataset and generates meaningful text based 
 
 ## 🚀 Features 
 - Uses pre-trained GPT-2 model 
-- Fine-tuning on custom dataset 
+- Fine-tuning on custom dataset
 - Generates human-like text
 - Simple and beginner-friendly implementation
 
