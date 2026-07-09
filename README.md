@@ -12,7 +12,7 @@ The model is fine-tuned on a custom dataset and generates meaningful text based 
 - Fine-tuning on custom dataset
 - Generates human-like text  
 - Simple and beginner-friendly implementation 
-  
+   
 --- 
  
 ## 🛠️ Technologies Used 
