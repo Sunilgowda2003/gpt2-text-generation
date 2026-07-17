@@ -6,7 +6,7 @@ This project demonstrates text generation using the GPT-2 model.
 The model is fine-tuned on a custom dataset and generates meaningful text based on input prompts. 
  
 ---  
- 
+  
 ## 🚀 Features  
 - Uses pre-trained GPT-2 model 
 - Fine-tuning on custom dataset  
